@@ -9,6 +9,7 @@ Python code for the book *[Artificial Intelligence: A Modern Approach](http://ai
 
 
 
+
 ## Structure of the Project
 
 When complete, this project will have Python implementations for all the pseudocode algorithms in the book, as well as tests and examples of use. For each major topic, such as `nlp` (natural language processing), we provide the following  files:
